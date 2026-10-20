@@ -1,9 +1,15 @@
+body.blue{
+background-color: blue;
+}
 body.red{
 background-color: red;
 
 }
 body.green{
     background-color: green;
+}
+body.pink{
+background-color: pink;
 }
 body{
     background: deeppink;
